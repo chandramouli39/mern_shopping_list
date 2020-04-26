@@ -1,9 +1,6 @@
 {
   "name": "mern_typescript",
   "version": "1.0.0",
-  "engines": {
-    "node": "10.x.x"
-  },
   "description": "MERN Stack with ES6 and Typescript Boilerplate",
   "main": "server.js",
   "scripts": {
